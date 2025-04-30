@@ -71,5 +71,8 @@
       "statusBarVisibility": "inherit",
       "inheritDefault": "visible"
     }
+  },
+  "files.associations": {
+    "iostream": "cpp"
   }
 }
